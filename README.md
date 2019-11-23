@@ -1,6 +1,5 @@
 
-# Welcome to LearnCS8 Resume Website
+# Layla Jones-Pacheco
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
-
-Special thanks to the open source bootstrap libraries that made this website possible. 
+Hello this is my website, I am making it for CS8. This is hard, I hope I've been doing it correctly xD.
+![Description of Image](img/READ MEWEBSITE 2.png)
